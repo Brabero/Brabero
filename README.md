@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![rab](https://user-images.githubusercontent.com/128420602/226447243-1f5b6284-124e-40e4-bd14-bbb58e5a0d1e.gif)
+
 
 <!--
 **Brabero/Brabero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
